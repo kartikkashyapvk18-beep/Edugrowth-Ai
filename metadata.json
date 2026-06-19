@@ -1,0 +1,6 @@
+{
+  "name": "EduGrowth AI",
+  "description": "Student Admissions Pipeline and Lead Management System with AI-powered WhatsApp auto-drafting templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
